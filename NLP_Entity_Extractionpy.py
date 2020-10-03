@@ -4,7 +4,7 @@
 @author: Sanjay Tanneeru
 """
 
-#You would need to 
+#You would need to sign up with IBM NLP service and get your authentication key, they have a trial version
 def NLP_Authentication(): 
     from ibm_watson import NaturalLanguageUnderstandingV1 
     from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
