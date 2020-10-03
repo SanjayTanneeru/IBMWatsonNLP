@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 @About - Watson NLP Entity data extraction
-@author: stanneeru
+@author: Sanjay Tanneeru
 """
 
 #You would need to 
